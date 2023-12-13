@@ -1,0 +1,2 @@
+# auto_start_slack_app
+集中するためにSlackを定期的にstartさせるだけのshell
