@@ -5,7 +5,12 @@
 - MacOS使っていること前提
 - zshを使っていること前提
 
-1. crontabの設定
+1. shellファイルの実行権限付与
+```
+chmod +x /path/to/start_slack.sh
+```
+
+2. crontabの設定
 ```
 crontab -e
 ```
